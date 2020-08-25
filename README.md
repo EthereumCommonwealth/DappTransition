@@ -19,6 +19,6 @@ Create request directly:
 
 Please, keep in mind that transition requester must provide the following information in the request:
 
-- Source code of the existing DAPP.
-- Contact email.
-- Brief description of the platform and what the contract must be doing. It is possible to provide the link to the technical whitepaper or contract documentation instead.
+1. Source code of the existing DAPP.
+2. Contact email.
+3. Brief description of the platform and what the contract must be doing. It is possible to provide the link to the technical whitepaper or contract documentation instead.
