@@ -37,3 +37,9 @@ We deliver:
 - The smart contract deployed (if it was specifically agreed with the requester).
 - The documentation of the new smart contract.
 - The guidance and technical support after the EOS contract is deployed.
+
+### Costs
+
+At the moment, we will evaluate each request separately and set a price depending on how difficult it is to port this contract and how long it will take to process the request.
+
+After receiving payment, the developers will start working on the request. After the request has been completed, Callisto will withhold a fixed fee of 3.5% for handling the request and governing the process as well as verifying the final contract. After that the developer who handled the request will receive the remaining payment.
