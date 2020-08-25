@@ -43,3 +43,24 @@ We deliver:
 At the moment, we will evaluate each request separately and set a price depending on how difficult it is to port this contract and how long it will take to process the request.
 
 After receiving payment, the developers will start working on the request. After the request has been completed, Callisto will withhold a fixed fee of 3.5% for handling the request and governing the process as well as verifying the final contract. After that the developer who handled the request will receive the remaining payment.
+
+### Alternative ways to submit a transition request
+
+As the result, a github issue for your request will be created anyways. In any of the alternative ways described below the issue will be created by Callisto Team member.
+
+#### 1. Transition request can be submitted by email
+
+Send your request to dexaran@callisto.network
+
+Please, provide the necessary information: project description, contract source codes
+
+#### 2. Transition request can be submitted via the Migration Form at Callisto.network website
+
+Fill in the form here: https://callisto.network/smart-contract-migration/
+
+#### 3. Transition request can be submitted via twitter announcement
+
+Submit a tweet with `CLOme_to_eos` hashtag. Provide your contact email and project name in the tweet. Provide the `$CLO` hashtag in the tweet.
+
+
+
