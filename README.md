@@ -60,7 +60,7 @@ Fill in the form here: https://callisto.network/smart-contract-migration/
 
 #### 3. Transition request can be submitted via twitter announcement
 
-Submit a tweet with `CLOme_to_eos` hashtag. Provide your contact email and project name in the tweet. Provide the `$CLO` hashtag in the tweet.
+Submit a tweet with `CLOne_me_to_eos` hashtag. Provide your contact email and project name in the tweet. Provide the `$CLO` hashtag in the tweet.
 
 
 
