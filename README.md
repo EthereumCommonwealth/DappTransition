@@ -62,5 +62,10 @@ Fill in the form here: https://callisto.network/smart-contract-migration/
 
 Submit a tweet with `CLOne_me_to_eos` hashtag. Provide your contact email and project name in the tweet. Provide the `$CLO` hashtag in the tweet.
 
+## Accepting DAPP transition requests as a third party developer
 
+If you are not a member of Callisto team but you are competent enough to re-implement an Ethereum smart-contract in C++ and make it working on EOS mainnet then you can also participate in our open platform. Any third party developer can review issues of the DAPP transition repo and pick an issue that is labeled as "approved".
 
+Third party developer must express his willingness to work on the approved request and provide an approximate estimation of time that he is planning to spend on this request in the comment thread of the corresponding issue. After that Callisto team member will assign one developer to the task. Once the task is completed Callisto team will forward the payment to the assigned developer (withholding a specified platform fee).
+
+Approved contributors and Callisto team members have higher priority to be assigned for the tasks. After a successful completion of a task a third party contributor may appeal to become an approved developer. To do so fork this repo and add your github name to the [list of approved contributors](https://github.com/EthereumCommonwealth/DappTransition/blob/master/list_of_approved_contributors.md). Then submit a pull request and provide a link to the github issue of the successfully completed request.
